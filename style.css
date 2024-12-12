@@ -13,4 +13,5 @@ body {
 
 li {
   margin: 10px;
+  cursor: pointer;
 }
